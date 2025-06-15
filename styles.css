@@ -56,7 +56,6 @@ nav ul li a:hover {
     color: var(--dark);
 }
 #hero-container {
-    background-image: url(../image/desain.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
