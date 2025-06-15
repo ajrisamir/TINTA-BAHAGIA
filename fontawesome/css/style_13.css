@@ -1,0 +1,9 @@
+hr {
+    
+    border: 5px solid blueviolet;
+}
+.lv {
+    width: 200px;
+    height: 200px;
+    border-left-style: solid;
+}

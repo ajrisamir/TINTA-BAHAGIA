@@ -1,0 +1,9 @@
+p cite {
+    color:red;
+}
+blockquote cite {
+    color:white;
+}
+article p {
+    font-size: 24px;
+}
